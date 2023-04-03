@@ -9,12 +9,14 @@ This is a repository for a UI UX portfolio website made using HTML, CSS, and Jav
 
 Here are some screenshots of the website:
 
-![Screenshot 1](images/Screen%20Shots/S1.png)
-![Screenshot 2](images/Screen%20Shots/S2.png)
-![Screenshot 3](images/Screen%20Shots/S3.png)
-![Screenshot 4](images/Screen%20Shots/S4.png)
-![Screenshot 5](images/Screen%20Shots/S5.png)
-![Screenshot 6](images/Screen%20Shots/S6.png)
+<div align="center">
+  <img src="images/Screen%20Shots/S1.png" height="600"  alt="S1">
+  <img src="images/Screen%20Shots/S2.png" height="600"  alt="S2">
+  <img src="images/Screen%20Shots/S3.png" height="600"  alt="S3">
+  <img src="images/Screen%20Shots/S4.png" height="600"  alt="S4">
+  <img src="images/Screen%20Shots/S5.png" height="600"  alt="S5">
+  <img src="images/Screen%20Shots/S6.png" height="600"  alt="S6">
+</div>
 
 ## How to Clone and Modify the Repository
 
