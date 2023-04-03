@@ -1,4 +1,7 @@
-# UI UX Portfolio Website Repository
+<div align="center">
+  <img align="center" src="images/favicon.png" alt="Error 404" height="150">
+  <h1 align="center">UI UX Portfolio</h1>
+</div>
 
 This is a repository for a UI UX portfolio website made using HTML, CSS, and JavaScript, hosted on Github Pages. You can check the live version of the website at [https://amansinghbhogal.github.io/Portfolio/](https://amansinghbhogal.github.io/Portfolio/).
 
